@@ -8,3 +8,7 @@ The command git push is not sufficient before the command git push --set-upstrea
 ##Feature branch edit :
   This is done in the feature branch for checking the branching in git and how it works.
 
+
+##Feature branch edit 2 :
+  This is for testing how to create pull request using command line. I am thinking of going with the command git pull origin master in the feature branch.
+  \
