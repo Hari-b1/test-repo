@@ -11,4 +11,4 @@ The command git push is not sufficient before the command git push --set-upstrea
 
 ##Feature branch edit 2 :
   This is for testing how to create pull request using command line. I am thinking of going with the command git pull origin master in the feature branch.
-  \
+  Checking for auto merging feature in the feature branch
